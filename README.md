@@ -9,7 +9,7 @@
 ===
 1. 打開 terminal 將專案 clone 到本地 <br>
 ```
-git clone https://github.com/pierceshih15/restaurantList.git
+git clone https://github.com/ken7875/restaurant-refactoring.git
 ```
 ---
 2. 開啟終端機(Terminal)，進入存放此專案的資料夾 <br>
